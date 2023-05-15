@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nxKH1RM88cHEsmrtrltGd2PRIVhm/WfW3wrSF07fBCkCRfETdVMihvUO8xVH6KDsK3AVJrOPp+nodUrqaSyQcA==",
+  "dgSpecHash": "+ySRaVasdBkrpPJGjNaVMp+P3/XnBSqqZ7KV8Gu2mFQhYWdRNVHxXD3loSw1B7X1QFkCmMkptWffLJFLiWCEQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Adam\\Desktop\\Repos\\APIs-and-JSON-Exercise\\APIsAndJSON\\APIsAndJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
